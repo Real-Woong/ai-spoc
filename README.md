@@ -38,26 +38,28 @@ The system focuses on:
 
 ## Repository Structure
 
+```
 ai-spoc
 │
 ├── MinWon_Service
-│ ├── batches
-│ │ ├── batch01.json
-│ │ ├── batch02.json
-│ │ └── …
-│ │
-│ ├── inject_noise_and_split.py
-│ ├── merge.py
-│ └── validate.py
+│   ├── batches
+│   │   ├── batch01.json
+│   │   ├── batch02.json
+│   │   └── ...
+│   │
+│   ├── inject_noise_and_split.py
+│   ├── merge.py
+│   └── validate.py
 │
 ├── prove
-│ ├── classification_report.txt
-│ ├── confusion_matrix.csv
-│ ├── metrics_summary.json
-│ ├── routing_distribution.json
-│ └── …
+│   ├── classification_report.txt
+│   ├── confusion_matrix.csv
+│   ├── metrics_summary.json
+│   ├── routing_distribution.json
+│   └── ...
 │
 └── README.md
+```
 
 ---
 
