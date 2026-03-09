@@ -1,0 +1,81 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# environment / secrets
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# notebooks / caches / tests
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.pytype/
+coverage/
+htmlcov/
+
+# build artifacts
+build/
+dist/
+*.egg-info/
+
+# model / training / experiment artifacts
+runs/
+wandb/
+mlruns/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# =========================
+# Project-specific generated data
+# =========================
+MinWon_Service/out/
+MinWon_Service/munwon_out.zip
+MinWon_Service/merged.json
+MinWon_Service/merged_noisy.json
+
+# prove outputs you probably don't need in code repo
+prove/env.json
+prove/env.txt
+
+# =========================
+# Submission / admin / bulky files
+# =========================
+*.zip
+*.mp4
+*.hwp
+*.docx
+
+# optional: ignore proposal PDFs too if you want code-only repo
+AI_SPOC_Proposal_김진웅공모전.docx
+AI-SPOC_김진웅_Track2/
+공모전 정보/
+새 폴더/
+새 폴더.zip
+prove사진/
+
+# =========================
+# OS / editor
+# =========================
+.DS_Store
+.vscode/
+.idea/

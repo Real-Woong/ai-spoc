@@ -1,0 +1,291 @@
+FullName                                                                             Length    LastWriteTime        
+--------                                                                             ------    -------------        
+D:\AI-Agent\MinWon-AI\.venv                                                                    2026-02-28 오전 2:20:20
+D:\AI-Agent\MinWon-AI\out                                                                      2026-02-28 오전 2:14:37
+D:\AI-Agent\MinWon-AI\prove                                                                    2026-03-01 오후 9:12:50
+D:\AI-Agent\MinWon-AI\router_runs                                                              2026-02-28 오전 2:29:51
+D:\AI-Agent\MinWon-AI\eval_outputs.jsonl                                             44113     2026-03-01 오후 8:27:56
+D:\AI-Agent\MinWon-AI\eval_test.py                                                   8821      2026-03-01 오후 9:00:27
+D:\AI-Agent\MinWon-AI\make_eval_dataset.py                                           844       2026-03-01 오후 8:10:39
+D:\AI-Agent\MinWon-AI\make_proofs.py                                                 12277     2026-03-01 오후 8:44:19
+D:\AI-Agent\MinWon-AI\make_test_eval.py                                              2754      2026-03-01 오후 8:23:29
+D:\AI-Agent\MinWon-AI\merged_noisy.json                                              630130    2026-02-28 오전 2:09:12
+D:\AI-Agent\MinWon-AI\quick_eval.py                                                  2867      2026-02-28 오전 2:33:45
+D:\AI-Agent\MinWon-AI\router_label_map.json                                          1807      2026-02-28 오전 2:37:51
+D:\AI-Agent\MinWon-AI\test.jsonl                                                     70787     2026-03-01 오전 5:12:41
+D:\AI-Agent\MinWon-AI\test_eval.jsonl                                                53129     2026-03-01 오후 9:07:42
+D:\AI-Agent\MinWon-AI\train_result.txt                                               12602     2026-02-28 오전 2:40:38
+D:\AI-Agent\MinWon-AI\train_router.py                                                5792      2026-02-28 오전 2:33:12
+D:\AI-Agent\MinWon-AI\validate.py                                                    4882      2026-02-28 오전 2:09:58
+D:\AI-Agent\MinWon-AI\.venv\Include                                                            2026-02-28 오전 2:19:01
+D:\AI-Agent\MinWon-AI\.venv\Lib                                                                2026-02-28 오전 2:19:01
+D:\AI-Agent\MinWon-AI\.venv\Scripts                                                            2026-02-28 오전 2:28:23
+D:\AI-Agent\MinWon-AI\.venv\share                                                              2026-02-28 오전 2:20:20
+D:\AI-Agent\MinWon-AI\.venv\pyvenv.cfg                                               302       2026-02-28 오전 2:19:01
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages                                                  2026-02-28 오전 2:28:23
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\accelerate                                       2026-02-28 오전 2:27:55
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\accelerate-0.34.2.dist-info                      2026-02-28 오전 2:27:56
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\aiohappyeyeballs                                 2026-02-28 오전 2:22:27
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\aiohappyeyeballs-2.6.1.dist-info                 2026-02-28 오전 2:22:27
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\aiohttp                                          2026-02-28 오전 2:22:56
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\aiohttp-3.13.3.dist-info                         2026-02-28 오전 2:22:57
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\aiosignal                                        2026-02-28 오전 2:22:38
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\aiosignal-1.4.0.dist-info                        2026-02-28 오전 2:22:38
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\annotated_doc                                    2026-02-28 오전 2:22:27
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\annotated_doc-0.0.4.dist-info                    2026-02-28 오전 2:22:27
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\anyio                                            2026-02-28 오전 2:22:38
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\anyio-4.12.1.dist-info                           2026-02-28 오전 2:22:38
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\attr                                             2026-02-28 오전 2:22:26
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\attrs                                            2026-02-28 오전 2:22:27
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\attrs-25.4.0.dist-info                           2026-02-28 오전 2:22:27
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\certifi                                          2026-02-28 오전 2:22:26
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\certifi-2026.2.25.dist-info                      2026-02-28 오전 2:22:26
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\charset_normalizer                               2026-02-28 오전 2:22:26
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\charset_normalizer-3.4.4.dist-info               2026-02-28 오전 2:22:26
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\click                                            2026-02-28 오전 2:22:37
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\click-8.3.1.dist-info                            2026-02-28 오전 2:22:37
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\colorama                                         2026-02-28 오전 2:22:26
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\colorama-0.4.6.dist-info                         2026-02-28 오전 2:22:26
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\datasets                                         2026-02-28 오전 2:28:21
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\datasets-2.21.0.dist-info                        2026-02-28 오전 2:28:23
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\dateutil                                         2026-02-28 오전 2:22:35
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\dill                                             2026-02-28 오전 2:27:51
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\dill-0.3.8.dist-info                             2026-02-28 오전 2:27:51
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\evaluate                                         2026-02-28 오전 2:28:23
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\evaluate-0.4.2.dist-info                         2026-02-28 오전 2:28:23
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\filelock                                         2026-02-28 오전 2:20:54
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\filelock-3.20.0.dist-info                        2026-02-28 오전 2:20:54
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\frozenlist                                       2026-02-28 오전 2:22:25
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\frozenlist-1.8.0.dist-info                       2026-02-28 오전 2:22:25
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\fsspec                                           2026-02-28 오전 2:27:50
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\fsspec-2024.6.1.dist-info                        2026-02-28 오전 2:27:51
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\functorch                                        2026-02-28 오전 2:21:23
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\h11                                              2026-02-28 오전 2:22:25
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\h11-0.16.0.dist-info                             2026-02-28 오전 2:22:25
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\hf_xet                                           2026-02-28 오전 2:22:25
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\hf_xet-1.3.1.dist-info                           2026-02-28 오전 2:22:25
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\httpcore                                         2026-02-28 오전 2:22:37
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\httpcore-1.0.9.dist-info                         2026-02-28 오전 2:22:37
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\httpx                                            2026-02-28 오전 2:22:56
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\httpx-0.28.1.dist-info                           2026-02-28 오전 2:22:56
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\huggingface_hub                                  2026-02-28 오전 2:27:52
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\huggingface_hub-0.36.2.dist-info                 2026-02-28 오전 2:27:54
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\idna                                             2026-02-28 오전 2:22:25
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\idna-3.11.dist-info                              2026-02-28 오전 2:22:25
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\jinja2                                           2026-02-28 오전 2:20:54
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\jinja2-3.1.6.dist-info                           2026-02-28 오전 2:20:55
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\joblib                                           2026-02-28 오전 2:22:24
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\joblib-1.5.3.dist-info                           2026-02-28 오전 2:22:25
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\markdown_it                                      2026-02-28 오전 2:22:36
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\markdown_it_py-4.0.0.dist-info                   2026-02-28 오전 2:22:37
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\markupsafe                                       2026-02-28 오전 2:20:54
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\MarkupSafe-3.0.2.dist-info                       2026-02-28 오전 2:20:54
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\mdurl                                            2026-02-28 오전 2:22:24
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\mdurl-0.1.2.dist-info                            2026-02-28 오전 2:22:24
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\mpmath                                           2026-02-28 오전 2:20:18
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\mpmath-1.3.0.dist-info                           2026-02-28 오전 2:20:19
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\multidict                                        2026-02-28 오전 2:22:24
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\multidict-6.7.1.dist-info                        2026-02-28 오전 2:22:24
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\multiprocess                                     2026-02-28 오전 2:27:52
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\multiprocess-0.70.16.dist-info                   2026-02-28 오전 2:27:52
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\networkx                                         2026-02-28 오전 2:20:47
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\networkx-3.6.1.dist-info                         2026-02-28 오전 2:20:54
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\numpy                                            2026-02-28 오전 2:20:41
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\numpy-2.3.5.dist-info                            2026-02-28 오전 2:20:47
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\numpy.libs                                       2026-02-28 오전 2:20:41
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\packaging                                        2026-02-28 오전 2:22:24
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\packaging-26.0.dist-info                         2026-02-28 오전 2:22:24
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\pandas                                           2026-02-28 오전 2:22:40
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\pandas-3.0.1.dist-info                           2026-02-28 오전 2:22:56
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\pandas.libs                                      2026-02-28 오전 2:22:40
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\PIL                                              2026-02-28 오전 2:20:39
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\pillow-12.0.0.dist-info                          2026-02-28 오전 2:20:40
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\pip                                              2026-02-28 오전 2:19:15
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\pip-26.0.1.dist-info                             2026-02-28 오전 2:19:20
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\pkg_resources                                    2026-02-28 오전 2:19:04
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\propcache                                        2026-02-28 오전 2:22:24
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\propcache-0.4.1.dist-info                        2026-02-28 오전 2:22:24
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\psutil                                           2026-02-28 오전 2:22:24
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\psutil-7.2.2.dist-info                           2026-02-28 오전 2:22:24
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\pyarrow                                          2026-02-28 오전 2:22:22
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\pyarrow-23.0.1.dist-info                         2026-02-28 오전 2:22:24
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\pyarrow.libs                                     2026-02-28 오전 2:22:22
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\pygments                                         2026-02-28 오전 2:22:17
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\pygments-2.19.2.dist-info                        2026-02-28 오전 2:22:21
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\python_dateutil-2.9.0.post0.dist-info            2026-02-28 오전 2:22:36
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\pyyaml-6.0.3.dist-info                           2026-02-28 오전 2:22:17
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\regex                                            2026-02-28 오전 2:22:17
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\regex-2026.2.19.dist-info                        2026-02-28 오전 2:22:17
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\requests                                         2026-02-28 오전 2:22:35
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\requests-2.32.5.dist-info                        2026-02-28 오전 2:22:35
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\rich                                             2026-02-28 오전 2:22:38
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\rich-14.3.3.dist-info                            2026-02-28 오전 2:22:39
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\safetensors                                      2026-02-28 오전 2:22:17
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\safetensors-0.7.0.dist-info                      2026-02-28 오전 2:22:17
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\scikit_learn-1.8.0.dist-info                     2026-02-28 오전 2:22:35
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\scipy                                            2026-02-28 오전 2:22:04
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\scipy-1.17.1.dist-info                           2026-02-28 오전 2:22:16
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\scipy.libs                                       2026-02-28 오전 2:22:04
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\setuptools                                       2026-02-28 오전 2:19:04
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\setuptools-65.5.0.dist-info                      2026-02-28 오전 2:19:06
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\shellingham                                      2026-02-28 오전 2:22:03
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\shellingham-1.5.4.dist-info                      2026-02-28 오전 2:22:03
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\six-1.17.0.dist-info                             2026-02-28 오전 2:22:03
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\sklearn                                          2026-02-28 오전 2:22:28
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\sympy                                            2026-02-28 오전 2:20:20
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\sympy-1.13.1.dist-info                           2026-02-28 오전 2:20:39
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\threadpoolctl-3.6.0.dist-info                    2026-02-28 오전 2:22:02
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\tokenizers                                       2026-02-28 오전 2:27:54
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\tokenizers-0.20.3.dist-info                      2026-02-28 오전 2:27:55
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\torch                                            2026-02-28 오전 2:21:24
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\torch-2.5.1+cu121.dist-info                      2026-02-28 오전 2:21:47
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\torchaudio                                       2026-02-28 오전 2:21:49
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\torchaudio-2.5.1+cu121.dist-info                 2026-02-28 오전 2:21:51
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\torchgen                                         2026-02-28 오전 2:21:46
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\torchvision                                      2026-02-28 오전 2:21:47
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\torchvision-0.20.1+cu121.dist-info               2026-02-28 오전 2:21:49
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\torio                                            2026-02-28 오전 2:21:51
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\tqdm                                             2026-02-28 오전 2:22:27
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\tqdm-4.67.3.dist-info                            2026-02-28 오전 2:22:27
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\transformers                                     2026-02-28 오전 2:27:57
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\transformers-4.46.3.dist-info                    2026-02-28 오전 2:28:21
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\typer                                            2026-02-28 오전 2:22:57
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\typer-0.24.1.dist-info                           2026-02-28 오전 2:22:57
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\typer_slim-0.24.0.dist-info                      2026-02-28 오전 2:22:57
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\typing_extensions-4.15.0.dist-info               2026-02-28 오전 2:20:19
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\tzdata                                           2026-02-28 오전 2:22:02
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\tzdata-2025.3.dist-info                          2026-02-28 오전 2:22:02
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\urllib3                                          2026-02-28 오전 2:22:02
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\urllib3-2.6.3.dist-info                          2026-02-28 오전 2:22:02
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\xxhash                                           2026-02-28 오전 2:22:02
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\xxhash-3.6.0.dist-info                           2026-02-28 오전 2:22:02
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\yaml                                             2026-02-28 오전 2:22:17
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\yarl                                             2026-02-28 오전 2:22:27
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\yarl-1.22.0.dist-info                            2026-02-28 오전 2:22:27
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\_distutils_hack                                  2026-02-28 오전 2:19:04
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\_multiprocess                                    2026-02-28 오전 2:27:52
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\_yaml                                            2026-02-28 오전 2:22:17
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\__pycache__                                      2026-02-28 오전 2:22:03
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\distutils-precedence.pth               151       2026-02-28 오전 2:19:03
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\isympy.py                              11207     2026-02-28 오전 2:20:19
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\scipy-1.17.1-cp311-cp311-win_amd64.whl 0         2026-02-28 오전 2:22:03
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\six.py                                 34703     2026-02-28 오전 2:22:02
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\threadpoolctl.py                       50722     2026-02-28 오전 2:22:02
+D:\AI-Agent\MinWon-AI\.venv\Lib\site-packages\typing_extensions.py                   160429    2026-02-28 오전 2:20:19
+D:\AI-Agent\MinWon-AI\.venv\Scripts\accelerate-config.exe                            108345    2026-02-28 오전 2:27:55
+D:\AI-Agent\MinWon-AI\.venv\Scripts\accelerate-estimate-memory.exe                   108347    2026-02-28 오전 2:27:55
+D:\AI-Agent\MinWon-AI\.venv\Scripts\accelerate-launch.exe                            108345    2026-02-28 오전 2:27:55
+D:\AI-Agent\MinWon-AI\.venv\Scripts\accelerate-merge-weights.exe                     108344    2026-02-28 오전 2:27:55
+D:\AI-Agent\MinWon-AI\.venv\Scripts\accelerate.exe                                   108353    2026-02-28 오전 2:27:55
+D:\AI-Agent\MinWon-AI\.venv\Scripts\activate                                         2059      2026-02-28 오전 2:19:12
+D:\AI-Agent\MinWon-AI\.venv\Scripts\activate.bat                                     988       2026-02-28 오전 2:19:12
+D:\AI-Agent\MinWon-AI\.venv\Scripts\Activate.ps1                                     24167     2026-02-28 오전 2:19:12
+D:\AI-Agent\MinWon-AI\.venv\Scripts\convert-caffe2-to-onnx.exe                       108372    2026-02-28 오전 2:21:46
+D:\AI-Agent\MinWon-AI\.venv\Scripts\convert-onnx-to-caffe2.exe                       108372    2026-02-28 오전 2:21:46
+D:\AI-Agent\MinWon-AI\.venv\Scripts\datasets-cli.exe                                 108349    2026-02-28 오전 2:28:23
+D:\AI-Agent\MinWon-AI\.venv\Scripts\deactivate.bat                                   393       2026-02-28 오전 2:19:12
+D:\AI-Agent\MinWon-AI\.venv\Scripts\evaluate-cli.exe                                 108349    2026-02-28 오전 2:28:23
+D:\AI-Agent\MinWon-AI\.venv\Scripts\f2py.exe                                         108336    2026-02-28 오전 2:20:47
+D:\AI-Agent\MinWon-AI\.venv\Scripts\get_gprof                                        2478      2026-02-28 오전 2:27:51
+D:\AI-Agent\MinWon-AI\.venv\Scripts\get_objgraph                                     1672      2026-02-28 오전 2:27:51
+D:\AI-Agent\MinWon-AI\.venv\Scripts\hf.exe                                           108341    2026-02-28 오전 2:27:54
+D:\AI-Agent\MinWon-AI\.venv\Scripts\httpx.exe                                        108324    2026-02-28 오전 2:22:56
+D:\AI-Agent\MinWon-AI\.venv\Scripts\huggingface-cli.exe                              108359    2026-02-28 오전 2:27:54
+D:\AI-Agent\MinWon-AI\.venv\Scripts\isympy.exe                                       108325    2026-02-28 오전 2:20:39
+D:\AI-Agent\MinWon-AI\.venv\Scripts\markdown-it.exe                                  108340    2026-02-28 오전 2:22:37
+D:\AI-Agent\MinWon-AI\.venv\Scripts\normalizer.exe                                   108353    2026-02-28 오전 2:22:26
+D:\AI-Agent\MinWon-AI\.venv\Scripts\numpy-config.exe                                 108336    2026-02-28 오전 2:20:47
+D:\AI-Agent\MinWon-AI\.venv\Scripts\pip.exe                                          108395    2026-02-28 오전 2:19:19
+D:\AI-Agent\MinWon-AI\.venv\Scripts\pip3.11.exe                                      108395    2026-02-28 오전 2:19:19
+D:\AI-Agent\MinWon-AI\.venv\Scripts\pip3.exe                                         108395    2026-02-28 오전 2:19:19
+D:\AI-Agent\MinWon-AI\.venv\Scripts\pygmentize.exe                                   108335    2026-02-28 오전 2:22:21
+D:\AI-Agent\MinWon-AI\.venv\Scripts\python.exe                                       268152    2026-02-28 오전 2:19:01
+D:\AI-Agent\MinWon-AI\.venv\Scripts\pythonw.exe                                      256384    2026-02-28 오전 2:19:01
+D:\AI-Agent\MinWon-AI\.venv\Scripts\tiny-agents.exe                                  108351    2026-02-28 오전 2:27:54
+D:\AI-Agent\MinWon-AI\.venv\Scripts\torchfrtrace.exe                                 108349    2026-02-28 오전 2:21:46
+D:\AI-Agent\MinWon-AI\.venv\Scripts\torchrun.exe                                     108340    2026-02-28 오전 2:21:46
+D:\AI-Agent\MinWon-AI\.venv\Scripts\tqdm.exe                                         108327    2026-02-28 오전 2:22:27
+D:\AI-Agent\MinWon-AI\.venv\Scripts\transformers-cli.exe                             108357    2026-02-28 오전 2:28:21
+D:\AI-Agent\MinWon-AI\.venv\Scripts\typer.exe                                        108328    2026-02-28 오전 2:22:57
+D:\AI-Agent\MinWon-AI\.venv\Scripts\undill                                           608       2026-02-28 오전 2:27:51
+D:\AI-Agent\MinWon-AI\.venv\share\man                                                          2026-02-28 오전 2:20:20
+D:\AI-Agent\MinWon-AI\.venv\share\man\man1                                                     2026-02-28 오전 2:20:20
+D:\AI-Agent\MinWon-AI\out\dataset.jsonl                                              505176    2026-02-28 오전 2:09:12
+D:\AI-Agent\MinWon-AI\out\hard_test.jsonl                                            60183     2026-02-28 오전 2:09:12
+D:\AI-Agent\MinWon-AI\out\test.jsonl                                                 49660     2026-02-28 오전 2:09:12
+D:\AI-Agent\MinWon-AI\out\train.jsonl                                                405143    2026-02-28 오전 2:09:12
+D:\AI-Agent\MinWon-AI\out\val.jsonl                                                  50373     2026-02-28 오전 2:09:12
+D:\AI-Agent\MinWon-AI\prove\env.json                                                 264       2026-03-01 오후 9:12:50
+D:\AI-Agent\MinWon-AI\prove\env.txt                                                  209       2026-03-01 오후 9:12:50
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-100                                               2026-02-28 오전 2:29:36
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-125                                               2026-02-28 오전 2:29:45
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-150                                               2026-02-28 오전 2:29:54
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-25                                                2026-02-28 오전 2:29:08
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-50                                                2026-02-28 오전 2:29:17
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-75                                                2026-02-28 오전 2:29:26
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-100\config.json                         3787      2026-02-28 오전 2:37:25
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-100\model.safetensors                   442555036 2026-02-28 오전 2:37:26
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-100\optimizer.pt                        885229946 2026-02-28 오전 2:37:28
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-100\rng_state.pth                       14308     2026-02-28 오전 2:37:28
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-100\scheduler.pt                        1064      2026-02-28 오전 2:37:28
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-100\special_tokens_map.json             1022      2026-02-28 오전 2:37:26
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-100\tokenizer.json                      752097    2026-02-28 오전 2:37:26
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-100\tokenizer_config.json               1343      2026-02-28 오전 2:37:26
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-100\trainer_state.json                  2797      2026-02-28 오전 2:37:28
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-100\training_args.bin                   5304      2026-02-28 오전 2:37:26
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-100\vocab.txt                           248477    2026-02-28 오전 2:37:26
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-125\config.json                         3787      2026-02-28 오전 2:37:35
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-125\model.safetensors                   442555036 2026-02-28 오전 2:37:35
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-125\optimizer.pt                        885229946 2026-02-28 오전 2:37:38
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-125\rng_state.pth                       14308     2026-02-28 오전 2:37:38
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-125\scheduler.pt                        1064      2026-02-28 오전 2:37:38
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-125\special_tokens_map.json             1022      2026-02-28 오전 2:37:35
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-125\tokenizer.json                      752097    2026-02-28 오전 2:37:35
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-125\tokenizer_config.json               1343      2026-02-28 오전 2:37:35
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-125\trainer_state.json                  3291      2026-02-28 오전 2:37:38
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-125\training_args.bin                   5304      2026-02-28 오전 2:37:35
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-125\vocab.txt                           248477    2026-02-28 오전 2:37:35
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-150\config.json                         3787      2026-02-28 오전 2:37:47
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-150\model.safetensors                   442555036 2026-02-28 오전 2:37:48
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-150\optimizer.pt                        885229946 2026-02-28 오전 2:37:50
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-150\rng_state.pth                       14308     2026-02-28 오전 2:37:50
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-150\scheduler.pt                        1064      2026-02-28 오전 2:37:50
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-150\special_tokens_map.json             1022      2026-02-28 오전 2:37:48
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-150\tokenizer.json                      752097    2026-02-28 오전 2:37:48
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-150\tokenizer_config.json               1343      2026-02-28 오전 2:37:48
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-150\trainer_state.json                  3785      2026-02-28 오전 2:37:50
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-150\training_args.bin                   5304      2026-02-28 오전 2:37:48
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-150\vocab.txt                           248477    2026-02-28 오전 2:37:48
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-25\config.json                          3787      2026-02-28 오전 2:36:58
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-25\model.safetensors                    442555036 2026-02-28 오전 2:36:58
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-25\optimizer.pt                         885229946 2026-02-28 오전 2:37:01
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-25\rng_state.pth                        14308     2026-02-28 오전 2:37:01
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-25\scheduler.pt                         1064      2026-02-28 오전 2:37:01
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-25\special_tokens_map.json              1022      2026-02-28 오전 2:36:58
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-25\tokenizer.json                       752097    2026-02-28 오전 2:36:58
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-25\tokenizer_config.json                1343      2026-02-28 오전 2:36:58
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-25\trainer_state.json                   1318      2026-02-28 오전 2:37:01
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-25\training_args.bin                    5304      2026-02-28 오전 2:36:58
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-25\vocab.txt                            248477    2026-02-28 오전 2:36:58
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-50\config.json                          3787      2026-02-28 오전 2:37:07
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-50\model.safetensors                    442555036 2026-02-28 오전 2:37:08
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-50\optimizer.pt                         885229946 2026-02-28 오전 2:37:10
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-50\rng_state.pth                        14308     2026-02-28 오전 2:37:10
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-50\scheduler.pt                         1064      2026-02-28 오전 2:37:10
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-50\special_tokens_map.json              1022      2026-02-28 오전 2:37:08
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-50\tokenizer.json                       752097    2026-02-28 오전 2:37:08
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-50\tokenizer_config.json                1343      2026-02-28 오전 2:37:08
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-50\trainer_state.json                   1810      2026-02-28 오전 2:37:10
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-50\training_args.bin                    5304      2026-02-28 오전 2:37:08
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-50\vocab.txt                            248477    2026-02-28 오전 2:37:08
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-75\config.json                          3787      2026-02-28 오전 2:37:16
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-75\model.safetensors                    442555036 2026-02-28 오전 2:37:17
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-75\optimizer.pt                         885229946 2026-02-28 오전 2:37:19
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-75\rng_state.pth                        14308     2026-02-28 오전 2:37:19
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-75\scheduler.pt                         1064      2026-02-28 오전 2:37:19
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-75\special_tokens_map.json              1022      2026-02-28 오전 2:37:17
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-75\tokenizer.json                       752097    2026-02-28 오전 2:37:17
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-75\tokenizer_config.json                1343      2026-02-28 오전 2:37:17
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-75\trainer_state.json                   2303      2026-02-28 오전 2:37:19
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-75\training_args.bin                    5304      2026-02-28 오전 2:37:17
+D:\AI-Agent\MinWon-AI\router_runs\checkpoint-75\vocab.txt                            248477    2026-02-28 오전 2:37:17

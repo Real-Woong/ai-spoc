@@ -1,0 +1,568 @@
+[
+{
+"id": "HARD-2026-B08-0001",
+"raw_citizen_input": "OO대로 중앙버스정류장 앞에 불법정차 차량 때문에 버스가 차로에 서고 승객이 위험하게 내려요. 단속은 교통행정인지 경찰서인지, 정류장 운영은 시청/광역인지 헷갈립니다",
+"complaint_type": "버스정류장 주변 불법주정차/운행 방해",
+"location_text": "OO구 OO동 OO대로 중앙버스정류장(OO은행 앞, 정류장 표지판 옆)",
+"jurisdiction_prediction": {
+"candidates": [
+{ "department": "교통행정(주차/단속)", "score": 0.73, "is_primary": true },
+{ "department": "경찰서(교통/치안)", "score": 0.56, "is_primary": false },
+{ "department": "시청/광역(교통/버스/광역협의)", "score": 0.46, "is_primary": false }
+]
+},
+"confidence_score": 0.63,
+"missing_information_fields": ["정류장 번호", "발생 시간대", "차량 번호", "사진/영상"],
+"supplement_request_probability": 0.88,
+"hidden_critical_defect": false,
+"processing_outcome": {
+"initial_routing_correct": true,
+"final_responsible_department": "교통행정(주차/단속)",
+"resolution_status": "supplement_requested",
+"processing_time_days": 9
+}
+},
+{
+"id": "HARD-2026-B08-0002",
+"raw_citizen_input": "OO동 골목 배수구에서 기름냄새가 계속 나고 물이 잘 안 내려가요… 음식점 주방쪽 영향 같기도 하고 하수문제 같기도 합니다. 어디가 담당이죠",
+"complaint_type": "악취 + 배수 불량(원인 불명)",
+"location_text": "OO구 OO동 OO분식집 뒤편 골목 배수구(맨홀 옆, 전봇대 앞)",
+"jurisdiction_prediction": {
+"candidates": [
+{ "department": "보건소 위생관리(식품/음식점/해충)", "score": 0.66, "is_primary": true },
+{ "department": "하수/치수(배수/침수/하수)", "score": 0.58, "is_primary": false },
+{ "department": "환경관리(소음/진동/악취/빛공해)", "score": 0.47, "is_primary": false }
+]
+},
+"confidence_score": 0.56,
+"missing_information_fields": ["발생 시간대", "오염/악취 범위", "사진", "인근 업소 상호"],
+"supplement_request_probability": 0.82,
+"hidden_critical_defect": false,
+"processing_outcome": {
+"initial_routing_correct": false,
+"final_responsible_department": "하수/치수(배수/침수/하수)",
+"resolution_status": "transferred",
+"processing_time_days": 13
+}
+},
+{
+"id": "HARD-2026-B08-0003",
+"raw_citizen_input": "옆집이 담장 경계선을 넘어와서 다툼 중입니다. 구청에서 경계 확정해서 철거시키는 조치 가능하나요?",
+"complaint_type": "사유지 경계/담장 분쟁",
+"location_text": "OO구 OO동 주택가(경계 분쟁 필지)",
+"jurisdiction_prediction": {
+"candidates": [
+{ "department": "민원총괄(이첩/조정)", "score": 0.69, "is_primary": true },
+{ "department": "건축허가(인허가/불법건축)", "score": 0.45, "is_primary": false }
+]
+},
+"confidence_score": 0.57,
+"missing_information_fields": ["분쟁 위치(주소)", "측량/등기 자료 유무", "분쟁 경위", "사진"],
+"supplement_request_probability": 0.12,
+"hidden_critical_defect": true,
+"processing_outcome": {
+"initial_routing_correct": true,
+"final_responsible_department": "민원총괄(이첩/조정)",
+"resolution_status": "no_action",
+"processing_time_days": 6
+}
+},
+{
+"id": "HARD-2026-B08-0004",
+"raw_citizen_input": "OO대로 포트홀이 ‘사냥 함정’처럼 파여있어요. 차가 지나가면 쿵! 쿵! 이거 언제까지 방치할건가요…",
+"complaint_type": "도로 포트홀/노면 파손",
+"location_text": "OO구 OO동 OO대로(OO초등학교 후문 앞) 2차로",
+"jurisdiction_prediction": {
+"candidates": [
+{ "department": "도로관리(도로/보도/시설물)", "score": 0.82, "is_primary": true },
+{ "department": "재난안전(위험/안전조치)", "score": 0.43, "is_primary": false }
+]
+},
+"confidence_score": 0.74,
+"missing_information_fields": ["정확 위치(차로/표지)", "파손 크기(대략)", "사진", "발견 시각"],
+"supplement_request_probability": 0.44,
+"hidden_critical_defect": false,
+"processing_outcome": {
+"initial_routing_correct": true,
+"final_responsible_department": "도로관리(도로/보도/시설물)",
+"resolution_status": "accepted",
+"processing_time_days": 7
+}
+},
+{
+"id": "HARD-2026-B08-0005",
+"raw_citizen_input": "OO사거리 신호등이 빨간불인데도 횡단보도 쪽이 잠깐 초록처럼 보이는 순간이 있어요. 경찰서가 먼저인지 도로교통공단인지… 사고날뻔 했습니다",
+"complaint_type": "교통신호기 이상 의심",
+"location_text": "OO구 OO동 OO사거리(주유소 맞은편) 신호등/횡단보도",
+"jurisdiction_prediction": {
+"candidates": [
+{ "department": "경찰서(교통/치안)", "score": 0.76, "is_primary": true },
+{ "department": "도로교통공단", "score": 0.63, "is_primary": false },
+{ "department": "재난안전(위험/안전조치)", "score": 0.46, "is_primary": false }
+]
+},
+"confidence_score": 0.65,
+"missing_information_fields": ["발생 시각", "신호 방향(차로/보행)", "현장 영상", "발생 빈도"],
+"supplement_request_probability": 0.78,
+"hidden_critical_defect": false,
+"processing_outcome": {
+"initial_routing_correct": true,
+"final_responsible_department": "경찰서(교통/치안)",
+"resolution_status": "supplement_requested",
+"processing_time_days": 6
+}
+},
+{
+"id": "HARD-2026-B08-0006",
+"raw_citizen_input": "OO동 인도에 나무가 쓰러져서 보행자 통행이 안돼요. 도로 쪽이니까 도로관리에서 처리해주시면 될 것 같습니다",
+"complaint_type": "수목 전도/보행로 통행 방해",
+"location_text": "OO구 OO동 OO길(버스정류장 30m 앞, 횡단보도 옆 인도)",
+"jurisdiction_prediction": {
+"candidates": [
+{ "department": "도로관리(도로/보도/시설물)", "score": 0.94, "is_primary": true },
+{ "department": "공원녹지(공원/녹지/가로수)", "score": 0.58, "is_primary": false },
+{ "department": "재난안전(위험/안전조치)", "score": 0.45, "is_primary": false }
+]
+},
+"confidence_score": 0.86,
+"missing_information_fields": ["정확 위치(기준물)", "사진", "발견 시각"],
+"supplement_request_probability": 0.55,
+"hidden_critical_defect": false,
+"processing_outcome": {
+"initial_routing_correct": false,
+"final_responsible_department": "공원녹지(공원/녹지/가로수)",
+"resolution_status": "transferred",
+"processing_time_days": 6
+}
+},
+{
+"id": "HARD-2026-B08-0007",
+"raw_citizen_input": "OO역 3번 출구 앞에 리어카 판매가 매일 인도를 막아요. 노점(점용)인지 주차단속인지 도로관리인지 헷갈려요…",
+"complaint_type": "보행로 점용(노점/이동판매) 민원",
+"location_text": "OO구 OO동 OO역 3번 출구 앞 보도(에스컬레이터 옆, 횡단보도 진입부)",
+"jurisdiction_prediction": {
+"candidates": [
+{ "department": "건설관리(국공유지/점용/노점)", "score": 0.67, "is_primary": true },
+{ "department": "교통행정(주차/단속)", "score": 0.57, "is_primary": false },
+{ "department": "도로관리(도로/보도/시설물)", "score": 0.45, "is_primary": false },
+{ "department": "민원총괄(이첩/조정)", "score": 0.36, "is_primary": false }
+]
+},
+"confidence_score": 0.56,
+"missing_information_fields": ["점용 시간대", "판매 수단 특징", "사진", "통행 방해 구간(대략)"],
+"supplement_request_probability": 0.84,
+"hidden_critical_defect": false,
+"processing_outcome": {
+"initial_routing_correct": true,
+"final_responsible_department": "건설관리(국공유지/점용/노점)",
+"resolution_status": "supplement_requested",
+"processing_time_days": 16
+}
+},
+{
+"id": "HARD-2026-B08-0008",
+"raw_citizen_input": "온라인에서 누가 저를 사기꾼이라고 글을 올렸어요. 구청에서 삭제시키고 처벌까지 할 수 있나요?",
+"complaint_type": "온라인 명예훼손/게시물 삭제 요구(사적 분쟁)",
+"location_text": "온라인 게시물(플랫폼/작성자 불명)",
+"jurisdiction_prediction": {
+"candidates": [
+{ "department": "경찰서(교통/치안)", "score": 0.68, "is_primary": true },
+{ "department": "민원총괄(이첩/조정)", "score": 0.42, "is_primary": false }
+]
+},
+"confidence_score": 0.58,
+"missing_information_fields": ["게시물 URL/캡처", "게시 시각", "피해 내용 정리"],
+"supplement_request_probability": 0.16,
+"hidden_critical_defect": true,
+"processing_outcome": {
+"initial_routing_correct": true,
+"final_responsible_department": "경찰서(교통/치안)",
+"resolution_status": "rejected",
+"processing_time_days": 3
+}
+},
+{
+"id": "HARD-2026-B08-0009",
+"raw_citizen_input": "OO구청 별관 엘리베이터가 덜컹거리고 문이 안 닫힐 때가 있어요. 한국승강기안전공단이 점검하나요? 재난안전도 같이 봐야하나요",
+"complaint_type": "승강기 이상/안전 점검 요청",
+"location_text": "OO구 OO동 OO구청 별관 1층 엘리베이터 홀",
+"jurisdiction_prediction": {
+"candidates": [
+{ "department": "한국승강기안전공단", "score": 0.74, "is_primary": true },
+{ "department": "재난안전(위험/안전조치)", "score": 0.56, "is_primary": false },
+{ "department": "민원총괄(이첩/조정)", "score": 0.41, "is_primary": false }
+]
+},
+"confidence_score": 0.62,
+"missing_information_fields": ["승강기 호기/번호", "발생 일시", "증상 빈도", "영상"],
+"supplement_request_probability": 0.77,
+"hidden_critical_defect": false,
+"processing_outcome": {
+"initial_routing_correct": true,
+"final_responsible_department": "한국승강기안전공단",
+"resolution_status": "supplement_requested",
+"processing_time_days": 10
+}
+},
+{
+"id": "HARD-2026-B08-0010",
+"raw_citizen_input": "OO지하차도 비만 오면 물이 차서 차들이 서요. 차도 문제니까 도로관리에서 해결해 주세요. 급합니다",
+"complaint_type": "우천 시 지하차도 침수 위험",
+"location_text": "OO구 OO동 OO지하차도 진입부(높이제한 표지판 앞)",
+"jurisdiction_prediction": {
+"candidates": [
+{ "department": "도로관리(도로/보도/시설물)", "score": 0.93, "is_primary": true },
+{ "department": "하수/치수(배수/침수/하수)", "score": 0.61, "is_primary": false },
+{ "department": "재난안전(위험/안전조치)", "score": 0.46, "is_primary": false }
+]
+},
+"confidence_score": 0.86,
+"missing_information_fields": ["침수 발생 일시", "수위(대략)", "사진/영상", "배수구 위치"],
+"supplement_request_probability": 0.94,
+"hidden_critical_defect": false,
+"processing_outcome": {
+"initial_routing_correct": false,
+"final_responsible_department": "하수/치수(배수/침수/하수)",
+"resolution_status": "transferred",
+"processing_time_days": 18
+}
+},
+{
+"id": "HARD-2026-B08-0011",
+"raw_citizen_input": "OO동 분리수거장에 쓰레기가 매일 ‘자라’납니다. 생태계가 완성되기 전에 처리 좀요^^ 냄새가 미쳤어요…",
+"complaint_type": "쓰레기 적치/불법투기 의심",
+"location_text": "OO구 OO동 OO아파트 단지 외곽 분리수거장(주차장 출구 옆)",
+"jurisdiction_prediction": {
+"candidates": [
+{ "department": "청소행정(폐기물/불법투기)", "score": 0.84, "is_primary": true },
+{ "department": "민원총괄(이첩/조정)", "score": 0.38, "is_primary": false },
+{ "department": "경찰서(교통/치안)", "score": 0.36, "is_primary": false }
+]
+},
+"confidence_score": 0.73,
+"missing_information_fields": ["사진", "발생 기간", "투기 시간대"],
+"supplement_request_probability": 0.51,
+"hidden_critical_defect": false,
+"processing_outcome": {
+"initial_routing_correct": true,
+"final_responsible_department": "청소행정(폐기물/불법투기)",
+"resolution_status": "accepted",
+"processing_time_days": 4
+}
+},
+{
+"id": "HARD-2026-B08-0012",
+"raw_citizen_input": "OO초등학교 정문 앞 버스정류장이 너무 붙어있어서 등하교 시간에 위험해요. 정류장 옮기는건 시청/광역인가요? 도로관리도 관련있나요",
+"complaint_type": "버스정류장 위치 조정 요청",
+"location_text": "OO구 OO동 OO초등학교 정문 앞 버스정류장(정류장 번호 미상)",
+"jurisdiction_prediction": {
+"candidates": [
+{ "department": "시청/광역(교통/버스/광역협의)", "score": 0.69, "is_primary": true },
+{ "department": "도로관리(도로/보도/시설물)", "score": 0.61, "is_primary": false },
+{ "department": "교통행정(주차/단속)", "score": 0.47, "is_primary": false }
+]
+},
+"confidence_score": 0.58,
+"missing_information_fields": ["정류장 번호", "혼잡 시간대", "희망 이동 방향/거리", "사고/근접사고 여부"],
+"supplement_request_probability": 0.66,
+"hidden_critical_defect": false,
+"processing_outcome": {
+"initial_routing_correct": true,
+"final_responsible_department": "시청/광역(교통/버스/광역협의)",
+"resolution_status": "supplement_requested",
+"processing_time_days": 28
+}
+},
+{
+"id": "HARD-2026-B08-0013",
+"raw_citizen_input": "OO동 OO분식에서 바퀴벌레를 봤습니다. 위생점검 해주세요. 주방 쪽에서 나왔어요",
+"complaint_type": "음식점 위생/해충 점검 요청",
+"location_text": "OO구 OO동 OO분식(주방 출입구 쪽, 골목 면)",
+"jurisdiction_prediction": {
+"candidates": [
+{ "department": "보건소 위생관리(식품/음식점/해충)", "score": 0.83, "is_primary": true },
+{ "department": "환경관리(소음/진동/악취/빛공해)", "score": 0.41, "is_primary": false }
+]
+},
+"confidence_score": 0.74,
+"missing_information_fields": ["발견 시각", "사진(가능 시)", "발견 구역(주방/홀)"],
+"supplement_request_probability": 0.62,
+"hidden_critical_defect": false,
+"processing_outcome": {
+"initial_routing_correct": true,
+"final_responsible_department": "보건소 위생관리(식품/음식점/해충)",
+"resolution_status": "supplement_requested",
+"processing_time_days": 13
+}
+},
+{
+"id": "HARD-2026-B08-0014",
+"raw_citizen_input": "OO교차로 차선 유도선이 거의 지워져서 좌회전/직진이 뒤섞여 사고 날 것 같아요. 경찰서가 단속만 하는 건지, 도로교통공단/도로관리 중 어디가 도색하나요?",
+"complaint_type": "차선/노면표시 재도색 요청",
+"location_text": "OO구 OO동 OO교차로(OO마트 앞, 유도선 지워진 구간)",
+"jurisdiction_prediction": {
+"candidates": [
+{ "department": "도로교통공단", "score": 0.72, "is_primary": true },
+{ "department": "경찰서(교통/치안)", "score": 0.55, "is_primary": false },
+{ "department": "도로관리(도로/보도/시설물)", "score": 0.44, "is_primary": false }
+]
+},
+"confidence_score": 0.61,
+"missing_information_fields": ["정확 방향(차로)", "사진", "사고/근접사고 여부", "발견 시간대"],
+"supplement_request_probability": 0.79,
+"hidden_critical_defect": false,
+"processing_outcome": {
+"initial_routing_correct": true,
+"final_responsible_department": "도로교통공단",
+"resolution_status": "supplement_requested",
+"processing_time_days": 22
+}
+},
+{
+"id": "HARD-2026-B08-0015",
+"raw_citizen_input": "민영 주차장에서 이중결제 됐는데 운영자가 환불을 계속 미뤄요. 구청에서 환불을 강제로 시킬 수 있나요?",
+"complaint_type": "민영 주차장 환불 분쟁",
+"location_text": "OO구 OO동 민영 주차장(상가 뒤편, 사유지)",
+"jurisdiction_prediction": {
+"candidates": [
+{ "department": "민원총괄(이첩/조정)", "score": 0.63, "is_primary": true },
+{ "department": "교통행정(주차/단속)", "score": 0.48, "is_primary": false }
+]
+},
+"confidence_score": 0.56,
+"missing_information_fields": ["영수증/결제내역", "운영자 정보", "발생 일시", "분쟁 경위"],
+"supplement_request_probability": 0.13,
+"hidden_critical_defect": true,
+"processing_outcome": {
+"initial_routing_correct": true,
+"final_responsible_department": "민원총괄(이첩/조정)",
+"resolution_status": "no_action",
+"processing_time_days": 5
+}
+},
+{
+"id": "HARD-2026-B08-0016",
+"raw_citizen_input": "OO동 상가 간판 조명이 밤에 집 안까지 들어와요. 불법 간판이면 건축허가에서 바로 조치해주실 수 있죠? 너무 밝아요",
+"complaint_type": "빛공해(간판/조명 과다)",
+"location_text": "OO구 OO동 주거지 인접 상가(교차로 코너, OO약국 옆)",
+"jurisdiction_prediction": {
+"candidates": [
+{ "department": "건축허가(인허가/불법건축)", "score": 0.92, "is_primary": true },
+{ "department": "환경관리(소음/진동/악취/빛공해)", "score": 0.60, "is_primary": false }
+]
+},
+"confidence_score": 0.86,
+"missing_information_fields": ["상호", "조명 위치/각도(사진)", "피해 시간대", "조명 종류"],
+"supplement_request_probability": 0.58,
+"hidden_critical_defect": false,
+"processing_outcome": {
+"initial_routing_correct": false,
+"final_responsible_department": "환경관리(소음/진동/악취/빛공해)",
+"resolution_status": "transferred",
+"processing_time_days": 16
+}
+},
+{
+"id": "HARD-2026-B08-0017",
+"raw_citizen_input": "OO동 골목 가로등이 이틀째 꺼져있읍니다. 밤에 너무 어두워서 무섭고 위험해요. 수리 요청드립니다",
+"complaint_type": "가로등 고장/야간 안전",
+"location_text": "OO구 OO동 OO길(OO어린이집 담장 옆, 코너 가로등)",
+"jurisdiction_prediction": {
+"candidates": [
+{ "department": "도로관리(도로/보도/시설물)", "score": 0.81, "is_primary": true },
+{ "department": "재난안전(위험/안전조치)", "score": 0.43, "is_primary": false }
+]
+},
+"confidence_score": 0.73,
+"missing_information_fields": ["가로등 번호", "고장 발생 시점", "정확 위치(교차점)"],
+"supplement_request_probability": 0.46,
+"hidden_critical_defect": false,
+"processing_outcome": {
+"initial_routing_correct": true,
+"final_responsible_department": "도로관리(도로/보도/시설물)",
+"resolution_status": "accepted",
+"processing_time_days": 9
+}
+},
+{
+"id": "HARD-2026-B08-0018",
+"raw_citizen_input": "OO동 재개발 공사장이 밤 10시 넘어서도 드릴소리 나고 진동도 와요. 소음/진동 측정도 필요하고 안전도 걱정됩니다… 어디로 넣어야하죠",
+"complaint_type": "공사 소음/진동 + 안전 우려",
+"location_text": "OO구 OO동 OO재개발 구역(펜스 맞은편 주택가, 골목 입구)",
+"jurisdiction_prediction": {
+"candidates": [
+{ "department": "환경관리(소음/진동/악취/빛공해)", "score": 0.66, "is_primary": true },
+{ "department": "재난안전(위험/안전조치)", "score": 0.58, "is_primary": false },
+{ "department": "건축허가(인허가/불법건축)", "score": 0.44, "is_primary": false }
+]
+},
+"confidence_score": 0.56,
+"missing_information_fields": ["발생 시간(시작/종료)", "공사장 명칭", "영상/녹음", "진동 체감 정도"],
+"supplement_request_probability": 0.74,
+"hidden_critical_defect": false,
+"processing_outcome": {
+"initial_routing_correct": true,
+"final_responsible_department": "환경관리(소음/진동/악취/빛공해)",
+"resolution_status": "supplement_requested",
+"processing_time_days": 15
+}
+},
+{
+"id": "HARD-2026-B08-0019",
+"raw_citizen_input": "지인에게 돈을 빌려줬는데 약속한 날짜에 안 갚아요. 구청에서 강제징수나 압류 같은 걸 해줄 수 있나요?",
+"complaint_type": "개인 간 대여금/채권 분쟁",
+"location_text": "OO구 OO동(거주지/거래 장소 혼재)",
+"jurisdiction_prediction": {
+"candidates": [
+{ "department": "민원총괄(이첩/조정)", "score": 0.67, "is_primary": true },
+{ "department": "경찰서(교통/치안)", "score": 0.41, "is_primary": false }
+]
+},
+"confidence_score": 0.56,
+"missing_information_fields": ["차용증/이체내역", "상환 약속일", "대화 기록(비식별)", "분쟁 경위"],
+"supplement_request_probability": 0.11,
+"hidden_critical_defect": true,
+"processing_outcome": {
+"initial_routing_correct": true,
+"final_responsible_department": "민원총괄(이첩/조정)",
+"resolution_status": "no_action",
+"processing_time_days": 4
+}
+},
+{
+"id": "HARD-2026-B08-0020",
+"raw_citizen_input": "OO공원 공중화장실이 물이 계속 고이고 악취가 심해요. 공원 관리인지 청소 문제인지 하수 문제인지 확인 부탁드립니다",
+"complaint_type": "공중화장실 배수 불량/위생 불량",
+"location_text": "OO구 OO동 OO공원 공중화장실(놀이터 옆, 관리사무소 반대편)",
+"jurisdiction_prediction": {
+"candidates": [
+{ "department": "공원녹지(공원/녹지/가로수)", "score": 0.72, "is_primary": true },
+{ "department": "청소행정(폐기물/불법투기)", "score": 0.49, "is_primary": false },
+{ "department": "하수/치수(배수/침수/하수)", "score": 0.41, "is_primary": false }
+]
+},
+"confidence_score": 0.62,
+"missing_information_fields": ["화장실 위치(구역)", "발생 시점", "사진", "막힘 여부(변기/바닥배수)"],
+"supplement_request_probability": 0.69,
+"hidden_critical_defect": false,
+"processing_outcome": {
+"initial_routing_correct": true,
+"final_responsible_department": "공원녹지(공원/녹지/가로수)",
+"resolution_status": "supplement_requested",
+"processing_time_days": 14
+}
+},
+{
+"id": "HARD-2026-B08-0021",
+"raw_citizen_input": "OO항 근처 바다에 기름막 같은게 퍼져요. 이거 해양환경공단이 처리하나요? 구청 환경관리? 재난안전? 어디로 넣어야 빨리 움직이나요",
+"complaint_type": "해양 오염(유막) 의심",
+"location_text": "OO구 OO동 OO항 방파제 안쪽(선착장 옆, 낚시 구역)",
+"jurisdiction_prediction": {
+"candidates": [
+{ "department": "해양환경공단", "score": 0.74, "is_primary": true },
+{ "department": "환경관리(소음/진동/악취/빛공해)", "score": 0.56, "is_primary": false },
+{ "department": "재난안전(위험/안전조치)", "score": 0.43, "is_primary": false }
+]
+},
+"confidence_score": 0.62,
+"missing_information_fields": ["발견 시각", "오염 범위(대략)", "사진/영상", "선박/배출원 여부"],
+"supplement_request_probability": 0.92,
+"hidden_critical_defect": false,
+"processing_outcome": {
+"initial_routing_correct": true,
+"final_responsible_department": "해양환경공단",
+"resolution_status": "supplement_requested",
+"processing_time_days": 12
+}
+},
+{
+"id": "HARD-2026-B08-0022",
+"raw_citizen_input": "OO카페 앞 소화전 표시 위에 불법주차가 ‘정착’했어요. 이쯤되면 전용석인듯^^ 단속 좀 제발…",
+"complaint_type": "소화전 주변 불법주정차 단속",
+"location_text": "OO구 OO동 OO카페 앞(소화전 표시 구간, 횡단보도 모퉁이)",
+"jurisdiction_prediction": {
+"candidates": [
+{ "department": "교통행정(주차/단속)", "score": 0.80, "is_primary": true },
+{ "department": "경찰서(교통/치안)", "score": 0.45, "is_primary": false }
+]
+},
+"confidence_score": 0.71,
+"missing_information_fields": ["차량 번호", "발생 시간대", "사진/영상"],
+"supplement_request_probability": 0.76,
+"hidden_critical_defect": false,
+"processing_outcome": {
+"initial_routing_correct": true,
+"final_responsible_department": "교통행정(주차/단속)",
+"resolution_status": "supplement_requested",
+"processing_time_days": 6
+}
+},
+{
+"id": "HARD-2026-B08-0023",
+"raw_citizen_input": "OO대로 차도 맨홀 뚜껑이 덜컹거리고 살짝 흔들려요. 도로관리인지 하수/치수인지 재난안전인지 모르겠어요. 사고날까 걱정됩니다",
+"complaint_type": "차도 맨홀 덜컹/이탈 위험",
+"location_text": "OO구 OO동 OO대로(OO주유소 앞) 1차로 맨홀",
+"jurisdiction_prediction": {
+"candidates": [
+{ "department": "도로관리(도로/보도/시설물)", "score": 0.66, "is_primary": true },
+{ "department": "하수/치수(배수/침수/하수)", "score": 0.54, "is_primary": false },
+{ "department": "재난안전(위험/안전조치)", "score": 0.45, "is_primary": false },
+{ "department": "도로교통공단", "score": 0.36, "is_primary": false }
+]
+},
+"confidence_score": 0.56,
+"missing_information_fields": ["정확 위치(차로/표지)", "덜컹 빈도", "사진/영상", "발견 시각"],
+"supplement_request_probability": 0.83,
+"hidden_critical_defect": false,
+"processing_outcome": {
+"initial_routing_correct": true,
+"final_responsible_department": "도로관리(도로/보도/시설물)",
+"resolution_status": "supplement_requested",
+"processing_time_days": 9
+}
+},
+{
+"id": "HARD-2026-B08-0024",
+"raw_citizen_input": "OO공원에서 금연구역인데 흡연을 계속 해요. 계도나 단속 요청드립니다",
+"complaint_type": "금연구역 흡연 민원",
+"location_text": "OO구 OO동 OO공원(놀이터 옆 벤치 구역)",
+"jurisdiction_prediction": {
+"candidates": [
+{ "department": "보건소 건강증진(금연/흡연)", "score": 0.78, "is_primary": true },
+{ "department": "공원녹지(공원/녹지/가로수)", "score": 0.46, "is_primary": false }
+]
+},
+"confidence_score": 0.70,
+"missing_information_fields": ["발생 시간대", "흡연 위치(구역)", "현장 사진/영상(가능 시)"],
+"supplement_request_probability": 0.41,
+"hidden_critical_defect": false,
+"processing_outcome": {
+"initial_routing_correct": true,
+"final_responsible_department": "보건소 건강증진(금연/흡연)",
+"resolution_status": "accepted",
+"processing_time_days": 12
+}
+},
+{
+"id": "HARD-2026-B08-0025",
+"raw_citizen_input": "회사에서 부당하게 해고당했는데 구청에서 복직 명령 내릴 수 있나요? 너무 억울합니다",
+"complaint_type": "해고/노동 분쟁(행정처분 곤란)",
+"location_text": "OO구 OO동 사업장(업체명 미기재)",
+"jurisdiction_prediction": {
+"candidates": [
+{ "department": "민원총괄(이첩/조정)", "score": 0.68, "is_primary": true },
+{ "department": "경찰서(교통/치안)", "score": 0.39, "is_primary": false }
+]
+},
+"confidence_score": 0.56,
+"missing_information_fields": ["사업장 정보", "해고 통보 방식/일자", "근로계약 관련 자료", "분쟁 경위"],
+"supplement_request_probability": 0.10,
+"hidden_critical_defect": true,
+"processing_outcome": {
+"initial_routing_correct": true,
+"final_responsible_department": "민원총괄(이첩/조정)",
+"resolution_status": "no_action",
+"processing_time_days": 6
+}
+}
+]

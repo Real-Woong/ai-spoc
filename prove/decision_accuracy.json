@@ -1,0 +1,14 @@
+{
+  "direct": {
+    "N": 0,
+    "acc": null
+  },
+  "coordinator": {
+    "N": 12,
+    "acc": 0.75
+  },
+  "fallback": {
+    "N": 188,
+    "acc": 0.5
+  }
+}
